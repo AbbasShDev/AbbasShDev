@@ -1,6 +1,6 @@
 # Hi there, I'm Abbas👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://abbasalshaqaq.tech)
+[![abbasalshaqaq.tech](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://abbasalshaqaq.tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbbasShDev&screen_name=AbbasShDev)
 
 ## I'm a self-taught passionate Full stack developer!!
@@ -13,17 +13,17 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://abbasalshaqaq.tech#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://abbasalshaqaq.tech#gh-dark-mode-only)
+[(./img/globe-light.svg)](https://abbasalshaqaq.tech#gh-light-mode-only)
+[(./img/globe-dark.svg)](https://abbasalshaqaq.tech#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/AbbasShDev#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AbbasShDev#gh-dark-mode-only)
+[(./img/twitter-light.svg)](https://twitter.com/AbbasShDev#gh-light-mode-only)
+[(./img/twitter-dark.svg)](https://twitter.com/AbbasShDev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/abbas_alshaqaq#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/abbas-alshaqaq#gh-dark-mode-only)
+[(./img/linkedin-light.svg)](https://linkedin.com/in/abbas_alshaqaq#gh-light-mode-only)
+[(./img/linkedin-dark.svg)](https://linkedin.com/in/abbas-alshaqaq#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/abbas_alshaqaq#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/abbas_alshaqaq#gh-dark-mode-only)
+[(./img/instagram-light.svg)](https://instagram.com/abbas_alshaqaq#gh-light-mode-only)
+[(./img/instagram-dark.svg)](https://instagram.com/abbas_alshaqaq#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -51,6 +51,7 @@
 
 <img align="left" alt="AbbasShDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbbasShDev&show_icons=true&hide_border=false" />
 
----
+<br />
+<br />
 
 <img align="left" alt="AbbasShDev's top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasShDev&show_icons=true&hide_border=false" />
