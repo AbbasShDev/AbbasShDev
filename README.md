@@ -51,6 +51,4 @@
 
 <img align="left" alt="AbbasShDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbbasShDev&show_icons=true&hide_border=false" />
 
-##
-
 <img align="left" alt="AbbasShDev's top-langs" style="margin-top:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasShDev&show_icons=true&hide_border=false" />
