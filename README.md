@@ -54,4 +54,14 @@
 <img align="left" alt="AbbasShDev's top-langs" style="margin-top:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasShDev&show_icons=true&hide_border=false" />
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript       10 hrs 11 mins  █████████████▓░░░░░░░░░░░   54.04 %
+PHP              7 hrs 47 mins   ██████████▒░░░░░░░░░░░░░░   41.31 %
+SCSS             23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Apache Config    17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+CSS              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+HTML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+```
+
 <!--END_SECTION:waka-->
