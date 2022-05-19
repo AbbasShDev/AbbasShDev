@@ -49,16 +49,20 @@
 
 ---
 
-<img align="left" alt="AbbasShDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbbasShDev&show_icons=true&hide_border=false" />
-
-<img align="left" alt="AbbasShDev's top-langs" style="margin-top:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasShDev&show_icons=true&hide_border=false" />
+<a href="https://github.com/AbbasShDev">
+  <img align="center" alt="AbbasShDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbbasShDev&show_icons=true&hide_border=false" />
+</a>
 
 <br />
 <br />
 
----
--
--
+<a href="https://github.com/AbbasShDev">
+  <img align="center" alt="AbbasShDev's top-langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasShDev&show_icons=true&hide_border=false" />
+</a>
+
+<br />
+<br />
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -71,3 +75,5 @@ Git Config   11 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+
