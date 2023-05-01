@@ -66,7 +66,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP              1 hr 33 mins    ███████████████████████▒░   93.69 %
+Bash             4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+.env file        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+SQL              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
