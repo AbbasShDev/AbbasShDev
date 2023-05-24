@@ -1,6 +1,6 @@
 # Hi there, I'm Abbas👋
 
-[![abbasalshaqaq.tech](https://img.shields.io/website?label=abbasalshaqaq.tech&style=for-the-badge&url=https%3A%2F%2Fabbasalshaqaq.tech)](https://abbasalshaqaq.tech)
+[![abbasalshaqaq.com](https://img.shields.io/website?label=abbasalshaqaq.tech&style=for-the-badge&url=https%3A%2F%2Fabbasalshaqaq.tech)](https://abbasalshaqaq.tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AbbasShDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbbasShDev&screen_name=AbbasShDev)
 
 ## I'm a self-taught passionate Full stack developer!!
@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://abbasalshaqaq.tech#gh-light-mode-only)
+[![website](./img/globe-light.svg)](https://abbasalshaqaq.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://abbasalshaqaq.tech#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/AbbasShDev#gh-light-mode-only)
