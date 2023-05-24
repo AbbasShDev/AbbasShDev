@@ -8,7 +8,6 @@
 - 🌱 I’m currently trying to learning everything 🤣
 - 🥅 2023 Goal: Learn more about DevOps.
 - ⚡ Fun fact: I love to cook and try new food 🥘
-- 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything [here](https://twitter.com/messages/compose?recipient_id=1034592362&text=Hi%20%F0%9F%91%8B)
 
 ### Connect with me:
