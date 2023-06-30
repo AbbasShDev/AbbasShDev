@@ -65,11 +65,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              2 hrs 42 mins   █████████████████████░░░░   84.42 %
-JSON             28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
-Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Log              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
