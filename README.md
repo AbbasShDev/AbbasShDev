@@ -65,11 +65,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 1 min     ████████████████████▓░░░░   82.15 %
-PHP          15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-XML          15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-TypeScript   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Docker       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
