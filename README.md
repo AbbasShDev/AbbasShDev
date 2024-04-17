@@ -65,7 +65,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP          3 hrs 30 mins   ███████████████████▓░░░░░   79.04 %
+JavaScript   52 mins         █████░░░░░░░░░░░░░░░░░░░░   19.52 %
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
