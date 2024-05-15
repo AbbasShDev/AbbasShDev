@@ -1,12 +1,12 @@
 # Hi there, I'm Abbas👋
 
-[![abbasalshaqaq.com](https://img.shields.io/website?label=abbasalshaqaq.com&style=for-the-badge&url=https%3A%2F%2Fabbasalshaqaq.tech)](https://abbasalshaqaq.tech)
+[![abbasalshaqaq.com](https://img.shields.io/website?label=abbasalshaqaq.com&style=for-the-badge&url=https%3A%2F%2Fabbasalshaqaq.com)](https://abbasalshaqaq.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AbbasShDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbbasShDev&screen_name=AbbasShDev)
 
-## I'm a self-taught passionate Full stack developer!!
+## I'm a self-taught passionate Backend developer!!
 
 - 🌱 I’m currently trying to learning everything 🤣
-- 🥅 2023 Goal: Learn more about DevOps.
+- 🥅 2024 Goal: Learn more about Database scaling.
 - ⚡ Fun fact: I love to cook and try new food 🥘
 - 💬 Ask me about anything [here](https://twitter.com/messages/compose?recipient_id=1034592362&text=Hi%20%F0%9F%91%8B)
 
