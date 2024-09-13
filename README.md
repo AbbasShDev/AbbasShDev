@@ -65,11 +65,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          4 hrs 18 mins   █████████████████████░░░░   84.18 %
-Bash         23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-TypeScript   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-.env file    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
