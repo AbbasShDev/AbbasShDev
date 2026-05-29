@@ -65,11 +65,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other            15 mins               ███████████████████░░░░░░   75.62 %
-PHP              4 mins                ██████░░░░░░░░░░░░░░░░░░░   23.64 %
-Text             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-JSON             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
